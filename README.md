@@ -15,6 +15,7 @@ Vous pouvez participer si vous avez :
 * un scanner pour faire un tombinoscope de ces feuilles ;
 * 10 minutes devant vous.
 
+## Protocole de récolte
 À ce stade, le projet se concentre sur les pommiers et les pruniers mais vous pouvez envoyer ce que vous avez sous la main.
 
 Naturellement, vous pouvez échantilloner plusieurs arbres. Plusieurs variétés au même endroit sont autant de réplicats. De même, plusieurs individus de la même variété fournissent également des répétitions précieuses pour les analyses.
