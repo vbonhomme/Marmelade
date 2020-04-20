@@ -6,7 +6,7 @@ Du cerisier en pot au verger de collection, la diversité des arbres fruitiers n
 
 [photo]
 
-Même en photo, la diversité des formes saute particulièrement aux yeux ! C'est tout l'idée de ce projet : décrire la diversité morphologique des espèces fruitières, pour mieux les comprendre.
+Même en photo, la diversité des formes saute aux yeux ! C'est tout l'idée de ce projet : décrire la diversité morphologique des espèces fruitières, pour mieux les comprendre.
 
 ## Comment participer ?
 Vous pouvez participer si vous avez :
@@ -15,17 +15,17 @@ Vous pouvez participer si vous avez :
 * un scanner pour faire un tombinoscope de ces feuilles ;
 * 10 minutes devant vous.
 
-À ce stade, le projet se concentre sur les pommiers et les pruniers. 
+À ce stade, le projet se concentre sur les pommiers et les pruniers mais vous pouvez envoyer ce que vous avez sous la main.
 
 Naturellement, vous pouvez échantilloner plusieurs arbres. Plusieurs variétés au même endroit sont autant de réplicats. De même, plusieurs individus de la même variété fournissent également des répétitions précieuses pour les analyses.
 
-Mais dans l'idée, si vous avez un seul arbre, acheté en grande surface de la variété "Déstockage -50%", vous pouvez également participer.
+Mais dans l'idée, si vous avez un seul arbre, acheté en grande surface sous la variété "Déstockage -50%", vous pouvez également participer.
 
 Le protocole pour cet essai est très simple :
 
 1. Prélevez 30 feuilles ou plus sur un même arbre. Ne dénudez pas la même branche, au contraire, cherchez à échantilloner tout autour de l'arbre
 2. Scannez ces feuilles (idéalement en `jpg`)
-3. Téléversez l'image sur le formulaire de dépôt
+3. Téléversez l'image sur le [formulaire de dépôt]()
 
 ## En échange
 
@@ -41,8 +41,17 @@ Du Pinot noir à la Picholine, du cerisier du grand-père à la Granny Smith, de
 
 Cette biodiversité _cultivée_ est unique en son genre. C'est un patrimoine commun, vivant, précieux et menacé de toutes parts par ce que l'on désigne en termes galants de "monde moderne".
 
-Le point d'entrée est la forme des organes, à commencer par les feuilles. Ce projet est participatif car il compte sur _vous_ pour collecter ses données brutes, à savoir la forme des feuilles de vos arbres fruitiers.
+Étonamment, si la forme de ces plantes est très utilisée pour leur identification, elle se fait essentiellement par des expert.e.s et par des mots. La forme n'étant jamais vraiment systématiquement _quantifiée_, elle est difficilement compréhensible. Les diversités morphologiques qu'il existe au sein d'un individu, d'une variété,d'une espèce, entre régions, selons les pratiques, etc. ne sont pas documentées, et a fortiori pas étudiées. Paradoxalement, les variétés actuelles pourtant à portée de main ne sont pas étudiées, alors que les restes archéologiques, souvent déformés, toujours rares, sont scrupuleusement analysés et livrent des éclairages uniques. Qui peut le plus, peut le moins : ici le matériel disponible n'est limité que par l'effort d'échantillonage que l'on peut y consacrer.
 
+### Objectifs
+Ce projet est un ballon d'essai pour des recherches au long cours qui visent à :
+
+ - **documenter** la diversité morphologique des feuilles, graines et fruits au sein des espèces, des variétés et des arbres ;
+ - **quantifier** la diversité de ces formes des variétés d'arbres fruitiers ;
+ - **identifier** la structure de cette diversité morphologique... si elle est structurée ;
+ - **explorer** la variation de la forme en fonction des régions, des années et des pratiques culturales ;
+ - **aider à l'identification** des variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
+ 
 ### Porteur scientifique
 [Vincent Bonhomme](http://www.vincentbonhomme.fr)
 
