@@ -15,6 +15,13 @@ Vous pouvez participer si vous avez :
 * un scanner pour faire un tombinoscope de ces feuilles ;
 * 10 minutes devant vous.
 
+## En échange
+
+* Les photos seront librement accessibles
+* Vous serez remercié.e dans les productions scientifiques
+* J'en diffuserai les résultats sous forme conviviale
+* Et surtout vous serez assuré.e de ma chaleureuse reconnaissance ;-)
+
 ## Protocole de récolte
 À ce stade, le projet se concentre sur les pommiers et les pruniers mais vous pouvez envoyer ce que vous avez sous la main.
 
@@ -27,13 +34,6 @@ Le protocole pour cet essai est très simple :
 1. Prélevez 30 feuilles ou plus sur un même arbre. Ne dénudez pas la même branche, au contraire, cherchez à échantilloner tout autour de l'arbre
 2. Scannez ces feuilles (idéalement en `jpg`)
 3. Téléversez l'image sur le [formulaire de dépôt]()
-
-## En échange
-
-* Les photos seront librement accessibles
-* Vous serez remercié.e dans les productions scientifiques
-* J'en diffuserai les résultats sous forme conviviale
-* Et surtout vous serez assuré.e de ma chaleureuse reconnaissance ;-)
 
 ## Pourquoi ?
 Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts ou à nos climats. Mais les plantes ne sont pas en reste : elles ont trouvé des jardiniers qui les chérissent, les multiplient, les diversifient. La main qui sélectionne explore, à tâtons, des terres inconnues des potentialités développementales inconnues dans la nature.
