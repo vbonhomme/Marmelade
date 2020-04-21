@@ -85,7 +85,7 @@ Je développe par ailleurs [des outils statistiques](http://momx.github.io) pour
 Je suis actuellement en post-doctorat au CNRS ([équipe DBA, UMR ISEM](http://www.isem.univ-montp2.fr/fr/equipes/dynamique-de-la-biodiversite-anthropoecologie-index/), Montpellier) sur le [projet ANR](https://anr.fr/Projet-ANR-16-CE27-0013)  "Viticulture: Vignes et vins en France du Néolithique au Moyen Âge. Approche intégrée en archéosciences" piloté par Laurent Bouby.
 
 ### Partenaires
-Le budget total de ce projet, hormis le temps que vous et moi y consacrez, est de 3€, pour le nom de domaine [marmelade.online]().
+Le budget total de ce projet, hormis le temps précieux que vous et moi y consacrez, est de 3€, pour le nom de domaine [marmelade.online]().
 
 Les structures ci-dessous ont bien volontiers accepter de diffuser ce programme. Merci à elles !
 
