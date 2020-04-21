@@ -50,8 +50,7 @@ Ce projet est un ballon d'essai pour des recherches au long cours qui visent à 
  - quantifier cette diversité au sein des espèces, des variétés, des individus ;
  - identifier la structure de cette diversité morphologique... si elle est structurée ;
  - explorer la variation de la forme en fonction des régions, des années, des pratiques culturales, etc. ;
- - aider à l'identification** de variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
- 
+ - aider à l'identification de variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
  
 ## Contexte scientifique
 
@@ -92,4 +91,5 @@ Les structures ci-dessous ont bien volontiers accepter de diffuser ce programme.
 
 * bla
 * bla
+* 
 ---
