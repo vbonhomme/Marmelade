@@ -7,6 +7,7 @@ Du cerisier en pot au verger de collection, la diversité des arbres fruitiers n
 
 [photo]
 
+
 Même en photo, la diversité des formes saute aux yeux ! C'est tout l'idée de ce projet : décrire les diversités morphologiques des espèces fruitières, pour mieux les comprendre. Il est participatif car il compte sur _vous_ pour collecter ses données brutes, à savoir la forme des feuilles de vos arbres fruitiers
 
 ## Comment participer ?
@@ -16,16 +17,16 @@ Vous pouvez participer si vous avez :
 * un scanner pour faire un tombinoscope de ces feuilles ;
 * 10 minutes devant vous.
 
-À ce stade, le projet se concentre sur les pommiers et les pruniers dont vous avez, idéalement, une idée claire de la variété.
+À ce stade, le projet se concentre sur les pommiers et les pruniers mais vous pouvez envoyer ce que vous avez sous la main.
 
 Naturellement, vous pouvez échantillonner plusieurs arbres de la même variété ou de variétés différentes. Ce seront autant de réplicats précieux pour les analyses.
 
-Mais dans l'idée, si vous avez un seul arbre, acheté en grande surface de la variété "Déstockage -50%", vous pouvez également participer.
+Mais dans l'idée, si vous avez un seul arbre, acheté en grande surface sous la variété "Déstockage -50%", vous pouvez également participer.
 
 ## Protocole de collecte
-Le protocole pour cet essai est très simple :
+Le protocole pour cet essai est très délibérément simple et rapide :
 
-1. Prélevezr30 feuilles ou plus sur un même arbre. Ne dénudez pas la même branche, au contraire, cherchez à échantilloner tout autour de l'arbre
+1. Prélevez 30 feuilles ou plus sur un même arbre. Ne dénudez pas la même branche, au contraire, cherchez à échantilloner tout autour de l'arbre
 2. Scannez ces feuilles (idéalement en `jpg`)
 3. Téléversez l'image sur le formulaire de dépôt
 
@@ -41,6 +42,9 @@ En sus de ma chaleureuse reconnaissance :
 ### Les plantes domestiquées
 Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts et à nos climats. Côté manipulation, les plantes ne sont pas en reste : elles ont trouvé des jardiniers qui les chérissent, les multiplient, les diversifient. 
 
+## Pourquoi ?
+Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts ou à nos climats. Mais les plantes ne sont pas en reste : elles ont trouvé des jardiniers qui les chérissent, les multiplient, les diversifient. La main qui sélectionne explore, à tâtons, des terres inconnues des potentialités développementales inconnues dans la nature.
+
 Du Pinot noir à la Picholine, du cerisier du grand-père à la Granny Smith, de l'unique au clone mondialisé, ce que nous consommons est le produit direct de l'histoire partagée des humains et des plantes. 
 
 ### Une biodiversité unique
@@ -49,15 +53,23 @@ Cette biodiversité _cultivée_, ou agrobiodiversité, est unique en son genre. 
 C'est un patrimoine commun, vivant, précieux et menacé de toutes parts par ce que l'on désigne en termes galants de "monde moderne".
 
 ### Pourquoi la forme ?
-Le point d'entrée dans cette diversité est la forme des organes, à commencer par les feuilles. Paradoxalement, l'agrobiodiversité morphologique actuelle n'est que très peu étudiée alors que les restes archéologiques de plantes sont scrupuleusement décrits, car la forme est bien souvent la seule donnée exploitable.
+Le point d'entrée dans cette diversité est la forme des organes, à commencer par les feuilles. Non, la forme ce n'est pas moins bien que l'ADN. C'est tout à fait autre chose : le résultat de l'ADN en interaction avec tout le reste. Et puis mesurer la forme, c'est rapide, simple, écologique, gratuit et autorisé pour les enfants.
 
-Les différences subtiles quantifiées sur ces "fossiles"  permettent des avancées majeures dans notre compréhension de l'histoire des plantes et des humains. Pourtant, le matériel archéologique est souvent déformé, et toujours rare.
+Paradoxalement, les variétés actuelles pourtant à portée de main ne sont pas étudiées, alors que les restes archéologiques, souvent déformés, toujours rares, sont scrupuleusement analysées et parviennent à livrer des éclairages uniques.
 
 Qui peut le plus peut le moins ! Faisons un essai, ensemble, sur nos arbres, dont la quantité de données n'est limitée que par l'effort d'échantillonnage que l'on peut y consacrer.
 
-Non, la forme ce n'est pas moins bien que l'ADN. C'est tout à fait autre chose : le résultat de l'ADN en interaction avec tout le reste. Et puis mesurer la forme, c'est rapide, simple, écologique, gratuit et autorisé pour les enfants.
 
-### Porteur scientifique
+## Objectifs scientifiques
+Ce projet est un ballon d'essai pour des recherches au long cours qui visent à :
+
+ - documenter la diversité morphologique des feuilles, graines et fruits au sein des espèces, des variétés et des arbres ;
+ - quantifier la diversité de ces formes des variétés d'arbres fruitiers ;
+ - identifier la structure de cette diversité morphologique... si elle est structurée ;
+ - explorer la variation de la forme en fonction des régions, des années et des pratiques culturales ;
+ - aider à l'identification** des variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
+ 
+## Porteur
 [Vincent Bonhomme](http://www.vincentbonhomme.fr)
 
 J'ai un doctorat d'écologie évolutive mais je me définirais surtout comme un scientifique enthousiaste. 
