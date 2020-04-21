@@ -28,13 +28,13 @@ Mais dans l'idée, si vous avez un seul arbre, acheté en grande surface sous la
 ## Protocole de collecte
 Le protocole pour cet essai est simple et rapide (~10 min par arbre) :
 
-1. Prélevez 30 feuilles ou plus sur un même arbre. Ne dénudez pas la même branche, au contraire, cherchez à échantilloner tout autour de l'arbre
-2. Scannez ces feuilles (idéalement en `jpg`)
-3. Téléversez l'image sur le formulaire de dépôt
+1. Prélevez 30 feuilles ou plus sur un même arbre. Ne dénudez pas la même branche, au contraire, cherchez à échantilloner tout autour de l'arbre. Ne retenez que les feuilles "typiques" ni trop petites, ni trop grandes, sans traces d'herbivorie, de trous, etc.
+2. Scannez ces feuilles (idéalement en `jpg`, 600 dpi max). Essayer de les poser bien à plat et sans recouvrement entre feuilles.
+3. Téléversez l'image sur le formulaire de dépôt et renseignez les champs pour lesquels vous avez l'information.
 
 Voilà le type de photo que vous devriez obtenir :
 
-[photo]
+![exemple_scan](img/ex.jpg)
 
 ## En échange
 En sus de ma chaleureuse reconnaissance :
