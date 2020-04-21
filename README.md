@@ -10,7 +10,7 @@ Du cerisier en pot au verger de collection, la diversité des arbres fruitiers n
 
 Même en photo, la diversité des formes saute aux yeux ! C'est tout l'idée de ce projet : décrire les diversités morphologiques des espèces fruitières, pour mieux les comprendre.
 
-Ce projet est participatif car il compte sur _vous_ pour collecter ses données brutes, à savoir la forme des feuilles de vos arbres fruitiers
+Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, à savoir la forme des feuilles de vos arbres fruitiers.
 
 ## Comment participer ?
 Vous pouvez participer si vous avez :
@@ -43,6 +43,16 @@ En sus de ma chaleureuse reconnaissance :
 * Vous serez remercié.e dans les productions scientifiques ;
 * J'en diffuserai les résultats sous forme conviviale.
 
+## Objectifs
+Ce projet est un ballon d'essai pour des recherches au long cours qui visent à :
+
+ - documenter la diversité de forme des feuilles, graines et fruits des espèces fruitières ;
+ - quantifier cette diversité au sein des espèces, des variétés, des individus ;
+ - identifier la structure de cette diversité morphologique... si elle est structurée ;
+ - explorer la variation de la forme en fonction des régions, des années, des pratiques culturales, etc. ;
+ - aider à l'identification** de variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
+ 
+ 
 ## Contexte scientifique
 
 ### Les plantes domestiquées
@@ -62,15 +72,6 @@ Paradoxalement, les variétés actuelles pourtant à portée de main ne sont pas
 
 Qui peut le plus peut le moins ! Faisons un essai, ensemble, sur nos arbres, dont la quantité de données n'est limitée que par l'effort d'échantillonnage que l'on peut y consacrer. On peut donc raisonnablement espérer identifer des différences subtiles.
 
-## Objectifs scientifiques
-Ce projet est un ballon d'essai pour des recherches au long cours qui visent à :
-
- - documenter la diversité de forme des feuilles, graines et fruits des espèces fruitières ;
- - quantifier cette diversité au sein des espèces, des variétés, des individus ;
- - identifier la structure de cette diversité morphologique... si elle est structurée ;
- - explorer la variation de la forme en fonction des régions, des années, des pratiques culturales, etc. ;
- - aider à l'identification** de variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
- 
 ## Porteur
 [Vincent Bonhomme](http://www.vincentbonhomme.fr)
 
@@ -84,10 +85,11 @@ Je développe par ailleurs [des outils statistiques](http://momx.github.io) pour
 
 Je suis actuellement en post-doctorat au CNRS ([équipe DBA, UMR ISEM](http://www.isem.univ-montp2.fr/fr/equipes/dynamique-de-la-biodiversite-anthropoecologie-index/), Montpellier) sur le [projet ANR](https://anr.fr/Projet-ANR-16-CE27-0013)  "Viticulture: Vignes et vins en France du Néolithique au Moyen Âge. Approche intégrée en archéosciences" piloté par Laurent Bouby.
 
-### Partenaires
+## Partenaires
 Le budget total de ce projet, hormis le temps précieux que vous et moi y consacrez, est de 3€, pour le nom de domaine [marmelade.online]().
 
 Les structures ci-dessous ont bien volontiers accepter de diffuser ce programme. Merci à elles !
 
 * bla
 * bla
+---
