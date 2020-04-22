@@ -8,9 +8,9 @@ Du cerisier en pot au verger de collection, la diversité des arbres fruitiers n
 [photo]
 
 
-Même en photo, la diversité des formes saute aux yeux ! C'est tout l'idée de ce projet : décrire les diversités morphologiques des espèces fruitières, pour mieux les comprendre.
+Même en photo, la diversité des formes saute aux yeux ! C'est tout l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) pour mieux comprendre la diversité des espèces fruitières.
 
-Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, à savoir la forme des feuilles de vos arbres fruitiers.
+Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, en commençant par des scans de feuilles.
 
 ## Comment participer ?
 Vous pouvez participer si vous avez :
