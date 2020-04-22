@@ -1,14 +1,8 @@
 # Marmelade
-recherche participative au verger
+recherche participative au jardin
 > Vous cherchez le [formulaire de dépôt]() ?
 
-## En bref
-Du cerisier en pot au verger de collection, la diversité des arbres fruitiers nous régale les papilles _et_ les yeux :
-
-[photo]
-
-
-Même en photo, la diversité des formes saute aux yeux ! C'est tout l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) pour mieux comprendre la diversité des espèces fruitières.
+Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
 
 Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, en commençant par des scans de feuilles.
 
