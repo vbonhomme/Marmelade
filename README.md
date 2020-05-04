@@ -1,17 +1,49 @@
 # Marmelade
+
 recherche participative au jardin
 > Vous cherchez le [formulaire de dépôt]() ?
+
+![photo]()
 
 Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
 
 Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, en commençant par des scans de feuilles.
 
-## Comment participer ?
-Vous pouvez participer si vous avez :
+Vous pouvez participer si :
+ * vous avez des arbres fruitiers ou des légumes dont vous connaissez la variété ;
+ * un scanner, un smartphone ou un appareil photo ;
+ * 15 minutes devant vous.
+ 
+## Qu'est-ce qu'on cherche ?
 
-* un ou plusieurs arbres fruitiers sur lequels prélever 30 feuilles ou plus ;
-* un scanner pour faire un tombinoscope de ces feuilles ;
-* 10 minutes devant vous.
+Ce projet est un ballon d'essai pour des recherches au long cours qui visent à :
+
+ - quantifier la diversité de forme des feuilles, graines et fruits des espèces fruitières au sein des espèces, des variétés et des individus ;
+ - explorer la structure de cette diversité morphologique... si elle est structurée ;
+ - tester l'existence de liens entre la forme, le climat, les années, les pratiques, etc., et les creuser ;
+ - aider à l'identification de variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
+ 
+## Qu'est-ce qu'on gagne ?
+En sus de ma chaleureuse reconnaissance :
+
+* Vos photos seront placées dans le [domaine public](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) et seront donc librement disponibles, notamment pour la communauté scientifique ;
+* Vous serez remercié.e dans les productions scientifiques ;
+* J'en diffuserai les résultats sous forme conviviale.
+
+## Projet marmelade
+Feuilles
+
+Vous pouvez participer si vous avez des arbres fruitiers de variété connues.
+
+Feuilles - Fruits
+
+[> Protocole_Marmelade]() - [> Formulaire_Marmelade]()
+
+## Projet ratatouille
+
+Vous pouvez participer si vous avez des légumes de variétés connues.
+
+[> Protocole_ratatouille]() - [> Formulaire_ratatouille]()
 
 À ce stade, le projet se concentre sur les pommiers et les pruniers mais vous pouvez envoyer ce que vous avez sous la main.
 
@@ -30,60 +62,59 @@ Voilà le type de photo que vous devriez obtenir :
 
 ![exemple_scan](img/ex.jpg)
 
-## En échange
-En sus de ma chaleureuse reconnaissance :
 
-* Vos photos seront placées dans le [domaine public](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) et seront donc librement disponibles, notamment pour la communauté scientifique ;
-* Vous serez remercié.e dans les productions scientifiques ;
-* J'en diffuserai les résultats sous forme conviviale.
+## Mais quel est donc le contexte scientifique ?
 
-## Objectifs
-Ce projet est un ballon d'essai pour des recherches au long cours qui visent à :
+Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts et à nos climats. Mais les plantes ont aussi trouvé une main qui les chérit, les multiplie, les diversifie et qui explore, à tâtons, des potentialités développementales inconnues dans la "nature".
 
- - quantifier la diversité de forme des feuilles, graines et fruits des espèces fruitières au sein des espèces, des variétés et des individus ;
- - explorer la structure de cette diversité morphologique... si elle est structurée ;
- - tester l'existence de liens entre la forme, le climat, les années, les pratiques, etc. ;
- - aider à l'identification de variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
- 
-## Contexte scientifique
+Du cerisier du grand-père à la Granny Smith, de l'unique au clone mondialisé, ce que nous consommons est le produit direct de l'histoire partagée des humains et des plantes. Cette biodiversité _cultivée_, ou agrobiodiversité, est unique en son genre. C'est un héritage commun et vivant, menacé de toutes parts par ce que l'on désigne en termes galants de "monde moderne".
 
-**Les plantes domestiquées**  
-Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts ou à nos climats. Mais les plantes ne sont pas en reste : elles ont trouvé des jardiniers qui les chérissent, les multiplient, les diversifient. La main qui sélectionne explore, à tâtons, des terres inconnues des potentialités développementales inconnues dans la nature.
+Le point d'entrée dans cette diversité est la forme des organes. Et, ce n'est pas moins sexy que l'ADN, c'est le résultat de l'ADN plus tout le reste. Et puis mesurer la forme, c'est rapide, simple, décentralisable, écologique, gratuit et autorisé pour les enfants.
 
-Du Pinot noir à la Picholine, du cerisier du grand-père à la Granny Smith, de l'unique au clone mondialisé, ce que nous consommons est le produit direct de l'histoire partagée des humains et des plantes. 
+En biologie des plantes, l'analyse des formes est surtout populaire sur les restes archéologiques. Le matériel retrouvé est souvent déformé, toujours rare mais livre un éclairage unique sur ce que nous consommions dans le passé, parfois lointain.
 
-**Une biodiversité unique**  
-Cette biodiversité _cultivée_, ou agrobiodiversité, est unique en son genre. La main qui sélectionne explore, à tâtons, des potentialités développementales inconnues dans la "nature" : des goûts, des couleurs, des formes, des aptitudes de culture.
+Les variétés actuelles ne sont paradoxalement que peu étudiée quantitativement alors que le matériel est frais, illimité et identifié. On peut donc raisonnablement espérer appliquer les mêmes approches mais détecter des signaux encore plus subtils.
 
-C'est un patrimoine commun, vivant, précieux et menacé de toutes parts par ce que l'on désigne en termes galants de "monde moderne".
-
-**Pourquoi la forme ?**  
-Le point d'entrée dans cette diversité est la forme des organes, à commencer par les feuilles. Non, la forme ce n'est pas moins bien que l'ADN. C'est tout à fait autre chose : le résultat de l'ADN en interaction avec tout le reste. Et puis mesurer la forme, c'est rapide, simple, écologique, gratuit et autorisé pour les enfants.
-
-Paradoxalement, les variétés actuelles pourtant à portée de main ne sont pas étudiées, alors que les restes archéologiques, souvent déformés, toujours rares, sont scrupuleusement analysés et parviennent à livrer des éclairages uniques [refs].
-
-Qui peut le plus peut le moins ! Faisons un essai, ensemble, sur nos arbres, dont la quantité de données n'est limitée que par l'effort d'échantillonnage que l'on peut y consacrer. On peut donc raisonnablement espérer identifer des différences subtiles.
-
-## Porteur
+## Mais qui porte donc ce projet rigolo ?
 [Vincent Bonhomme](http://www.vincentbonhomme.fr)
 
-J'ai un doctorat d'écologie évolutive mais je me définirais surtout comme un scientifique enthousiaste. 
+Je suis un scientifique enthousiaste, docteur en écologie évolutive. 
 
-Je m'intéresse à l'évolution des plantes domestiquées, et mes recherches actuelles visent à mieux comprendre comment et pourquoi évoluent les formes chez ces espèces, en particulier chez la vigne "archéologique".
+Je m'intéresse à l'évolution des plantes domestiquées, et mes recherches visent à mieux comprendre où, quand, comment et pourquoi leurs formes évoluent.
 
-Je développe par ailleurs [MomX](http://momx.github.io), un écosystème open-source pour permettre, massifier et populariser l'analyse de la forme, en général.
+En 2020, je suis en post-doctorat au CNRS ([équipe DBA, UMR ISEM](http://www.isem.univ-montp2.fr/fr/equipes/dynamique-de-la-biodiversite-anthropoecologie-index/), Montpellier). Je suis embauché sur le [projet ANR](https://anr.fr/Projet-ANR-16-CE27-0013)  "Viticulture: Vignes et vins en France du Néolithique au Moyen Âge. Approche intégrée en archéosciences" piloté par Laurent Bouby.
 
-En 2020, je suis en post-doctorat au CNRS ([équipe DBA, UMR ISEM](http://www.isem.univ-montp2.fr/fr/equipes/dynamique-de-la-biodiversite-anthropoecologie-index/), Montpellier) sur le [projet ANR](https://anr.fr/Projet-ANR-16-CE27-0013)  "Viticulture: Vignes et vins en France du Néolithique au Moyen Âge. Approche intégrée en archéosciences" piloté par Laurent Bouby.
+En pratique, j'essaie de faire parler ~50k pépins de raisin. J'arrive à la fin de la chaîne : pour moitié ces pépins ont été cueillis, amoureusement crachés puis photographiés par mes collègues ; les autres ont plusieurs siècles ou milliers d'années et ont été patiemment collectés lors de fouilles archéologiques.
+
+Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre en R pour permettre, massifier et populariser l'analyse de la forme, en général.
+
+## Et comment il va s'y prendre ?
+
+Dans un premier temps - que l'on peut qualifier de débrouissallage - on va tester l'intérêt de l'approche sur ces espèces. Quant à l'approche, elle est pratiquée en routine au labo. 
+
+Les photos sont d'abord traitées par des machines et la forme du contour des feuilles va être extraite sous forme de coordonées $(x; y)$ de pixels.
+
+Ces coordonées vont être homogénéisées, puis converties en variables quantitatives à l'aide de transformées elliptiques de Fourier. C'est un joli nom pour une transformation mathématique non moins élégante, que vous avez déjà pratiquée si vous avez joué avec un spirographe. Vu que l'on a désormais des variables confortables, traduisant la forme de façon compacte et objective, on peut :
+
+* chercher les principales composantes de variations ;
+* identifier des familles de formes et des regroupements ;
+* identifier les espaces morphologiques sous- et sur-representés ;
+* mesurer des distances entre formes ;
+* reconstruire des trajectoires entre formes et des formes moyennes ;
+* tester le lien avec d'autres variables "externes" ;
+* simuler d'autres formes ;
+* etc.
+
+Les données que vous collectez serviront à entraîner les premiers modèles, et tester l'existence de patrons intéressants.
+
+Je constituerai moi-même un autre jeu de données sur des collections existantes dans des conditions aussi standardisées que possible. Il est vraisemblable que je ménerai les premières analyses sur ce jeu de données. "Vos" photos seront elles analysées en fonction des données disponibles, et j'espère vous livrer les premiers résultats début 2021.
 
 ## Budget
 Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine [marmelade.online](). 
 
 Le temps que vous et moi y consacrez n'a lui pas de prix, et sera utile pour moi-même et j'espère pour plein d'autres.
 
-## Partenaires
-Les structures ci-dessous ont bien volontiers accepter de diffuser ce programme. Merci à elles !
+## Merci
+ * D'être arrivé.e jusqu'ici
+ * Aux structures ci-dessous de bien avoir voulu diffuser ce programme. Merci à elles !
 
-* bla
-* bla
-* 
----
