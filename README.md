@@ -30,26 +30,28 @@ En sus de ma chaleureuse reconnaissance :
 * Vous serez remercié.e dans les productions scientifiques ;
 * J'en diffuserai les résultats sous forme conviviale.
 
-## Projet marmelade
+## Protocoles
+### Projet marmelade
 Feuilles
 
 Vous pouvez participer si vous avez des arbres fruitiers de variété connues.
 
-Feuilles - Fruits
-
-[> Protocole_Marmelade]() - [> Formulaire_Marmelade]()
-
-## Projet ratatouille
-
-Vous pouvez participer si vous avez des légumes de variétés connues.
-
-[> Protocole_ratatouille]() - [> Formulaire_ratatouille]()
 
 À ce stade, le projet se concentre sur les pommiers et les pruniers mais vous pouvez envoyer ce que vous avez sous la main.
 
 Vous pouvez échantillonner plusieurs arbres de la même variété ou de variétés différentes. Ce seront autant de réplicats précieux lors des analyses.
 
 Mais dans l'idée, si vous avez un seul arbre, acheté en grande surface sous la variété "Déstockage -50%", vous pouvez également participer.
+
+Feuilles - Fruits
+
+[> Protocole_Marmelade]() - [> Formulaire_Marmelade]()
+
+### Projet ratatouille
+
+Vous pouvez participer si vous avez des légumes de variétés connues.
+
+[> Protocole_ratatouille]() - [> Formulaire_ratatouille]()
 
 ## Protocole de collecte
 Le protocole pour cet essai est simple et rapide (~10 min par arbre) :
