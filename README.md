@@ -71,7 +71,7 @@ Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts
 
 Du cerisier du grand-père à la Granny Smith, de l'unique au clone mondialisé, ce que nous consommons est le produit direct de l'histoire partagée des humains et des plantes. Cette biodiversité _cultivée_, ou agrobiodiversité, est unique en son genre. C'est un héritage commun et vivant, menacé de toutes parts par ce que l'on désigne en termes galants de "monde moderne".
 
-Le point d'entrée dans cette diversité est la forme des organes. Et, ce n'est pas moins sexy que l'ADN, c'est le résultat de l'ADN plus tout le reste. Et puis mesurer la forme, c'est rapide, simple, décentralisable, écologique, gratuit et autorisé pour les enfants.
+Ici, le point d'entrée dans cette diversité est la forme des organes. Et ce n'est pas moins sexy que l'ADN : c'est le résultat de l'ADN, plus tout le reste. De plus, mesurer la forme c'est rapide, simple, décentralisable, écologique, gratuit et autorisé pour les enfants.
 
 En biologie des plantes, l'analyse des formes est surtout populaire sur les restes archéologiques. Le matériel retrouvé est souvent déformé, toujours rare mais livre un éclairage unique sur ce que nous consommions dans le passé, parfois lointain.
 
@@ -94,7 +94,7 @@ Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre 
 
 Dans un premier temps - que l'on peut qualifier de débrouissallage - on va tester l'intérêt de l'approche sur ces espèces. Quant à l'approche, elle est pratiquée en routine au labo. 
 
-Les photos sont d'abord traitées par des machines et la forme du contour des feuilles va être extraite sous forme de coordonées $(x; y)$ de pixels.
+Les photos sont d'abord traitées par des machines et la forme du contour des feuilles va être extraite sous forme de coordonées `(x; y)` de pixels.
 
 Ces coordonées vont être homogénéisées, puis converties en variables quantitatives à l'aide de transformées elliptiques de Fourier. C'est un joli nom pour une transformation mathématique non moins élégante, que vous avez déjà pratiquée si vous avez joué avec un spirographe. Vu que l'on a désormais des variables confortables, traduisant la forme de façon compacte et objective, on peut :
 
