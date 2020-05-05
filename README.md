@@ -1,15 +1,14 @@
-# Marmelade
+# ![logo](img/marmelade_logo.png)
 
-recherche participative au jardin
-> Vous cherchez le [formulaire de dépôt]() ?
-
-![photo]()
+![photo](img/5075826879_d728c4d44c_c.jpg)
+Photo d'[Alexandre Dulaunoy](https://www.flickr.com/photos/adulau/5075826879)
 
 Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
 
 Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, en commençant par des scans de feuilles.
 
 Vous pouvez participer si :
+
  * vous avez des arbres fruitiers ou des légumes dont vous connaissez la variété ;
  * un scanner, un smartphone ou un appareil photo ;
  * 15 minutes devant vous.
@@ -31,39 +30,13 @@ En sus de ma chaleureuse reconnaissance :
 * J'en diffuserai les résultats sous forme conviviale.
 
 ## Protocoles
-### Projet marmelade
-Feuilles
-
-Vous pouvez participer si vous avez des arbres fruitiers de variété connues.
-
-
-À ce stade, le projet se concentre sur les pommiers et les pruniers mais vous pouvez envoyer ce que vous avez sous la main.
-
-Vous pouvez échantillonner plusieurs arbres de la même variété ou de variétés différentes. Ce seront autant de réplicats précieux lors des analyses.
-
-Mais dans l'idée, si vous avez un seul arbre, acheté en grande surface sous la variété "Déstockage -50%", vous pouvez également participer.
-
-Feuilles - Fruits
-
-[> Protocole_Marmelade]() - [> Formulaire_Marmelade]()
-
-### Projet ratatouille
-
-Vous pouvez participer si vous avez des légumes de variétés connues.
-
-[> Protocole_ratatouille]() - [> Formulaire_ratatouille]()
-
-## Protocole de collecte
-Le protocole pour cet essai est simple et rapide (~10 min par arbre) :
-
-1. Prélevez 30 feuilles ou plus sur un même arbre. Ne dénudez pas la même branche, au contraire, cherchez à échantilloner tout autour de l'arbre. Ne retenez que les feuilles "typiques" ni trop petites, ni trop grandes, sans traces d'herbivorie, de trous, etc.
-2. Scannez ces feuilles (idéalement en `jpg`, 600 dpi max). Essayer de les poser bien à plat et sans recouvrement entre feuilles.
-3. Téléversez l'image sur le formulaire de dépôt et renseignez les champs pour lesquels vous avez l'information.
-
-Voilà le type de photo que vous devriez obtenir :
-
-![exemple_scan](img/ex.jpg)
-
+### Projet fruits
+ * [Lien protocole]()
+ * [Lien formulaire]()
+ 
+### Projet légumes
+ * [Lien protocole]()
+ * [Lien formulaire]()
 
 ## Mais quel est donc le contexte scientifique ?
 
@@ -75,12 +48,12 @@ Ici, le point d'entrée dans cette diversité est la forme des organes. Et ce n'
 
 En biologie des plantes, l'analyse des formes est surtout populaire sur les restes archéologiques. Le matériel retrouvé est souvent déformé, toujours rare mais livre un éclairage unique sur ce que nous consommions dans le passé, parfois lointain.
 
-Les variétés actuelles ne sont paradoxalement que peu étudiée quantitativement alors que le matériel est frais, illimité et identifié. On peut donc raisonnablement espérer appliquer les mêmes approches mais détecter des signaux encore plus subtils.
+Les variétés actuelles ne sont paradoxalement que peu étudiées quantitativement alors que le matériel est frais, illimité et identifié. On peut donc raisonnablement espérer détecter des signaux encore plus subtils et plus éclairants sur l'histoire des variétés et la biologie des espèces.
 
-## Mais qui porte donc ce projet rigolo ?
-[Vincent Bonhomme](http://www.vincentbonhomme.fr)
+## Qui porte ce projet rigolo ?
+![myself](img/myself.png)  
 
-Je suis un scientifique enthousiaste, docteur en écologie évolutive. 
+Je suis un scientifique enthousiaste avec un doctorat en écologie évolutive.
 
 Je m'intéresse à l'évolution des plantes domestiquées, et mes recherches visent à mieux comprendre où, quand, comment et pourquoi leurs formes évoluent.
 
@@ -90,13 +63,17 @@ En pratique, j'essaie de faire parler ~50k pépins de raisin. J'arrive à la fin
 
 Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre en R pour permettre, massifier et populariser l'analyse de la forme, en général.
 
-## Et comment il va s'y prendre ?
+[> Vincent Bonhomme](http://www.vincentbonhomme.fr)
 
-Dans un premier temps - que l'on peut qualifier de débrouissallage - on va tester l'intérêt de l'approche sur ces espèces. Quant à l'approche, elle est pratiquée en routine au labo. 
+## Que deviennent mes photos ?
+
+Dans un premier temps - que l'on peut qualifier de débrouissaillage - on va tester l'intérêt de l'approche sur ces espèces. Quant à l'approche, elle est pratiquée en routine au labo. 
 
 Les photos sont d'abord traitées par des machines et la forme du contour des feuilles va être extraite sous forme de coordonées `(x; y)` de pixels.
 
-Ces coordonées vont être homogénéisées, puis converties en variables quantitatives à l'aide de transformées elliptiques de Fourier. C'est un joli nom pour une transformation mathématique non moins élégante, que vous avez déjà pratiquée si vous avez joué avec un spirographe. Vu que l'on a désormais des variables confortables, traduisant la forme de façon compacte et objective, on peut :
+Ces coordonées vont être homogénéisées, puis converties en variables quantitatives à l'aide de transformées elliptiques de Fourier. C'est un joli nom pour une transformation mathématique non moins élégante, que vous avez déjà pratiquée si vous avez joué avec un spirographe.
+
+Vu que l'on a désormais des variables confortables, traduisant la forme de façon compacte et objective, on peut :
 
 * chercher les principales composantes de variations ;
 * identifier des familles de formes et des regroupements ;
@@ -109,12 +86,14 @@ Ces coordonées vont être homogénéisées, puis converties en variables quanti
 
 Les données que vous collectez serviront à entraîner les premiers modèles, et tester l'existence de patrons intéressants.
 
-Je constituerai moi-même un autre jeu de données sur des collections existantes dans des conditions aussi standardisées que possible. Il est vraisemblable que je ménerai les premières analyses sur ce jeu de données. "Vos" photos seront elles analysées en fonction des données disponibles, et j'espère vous livrer les premiers résultats début 2021.
+Je constituerai moi-même un autre jeu de données sur des collections existantes dans des conditions aussi standardisées que possible. Il est vraisemblable que je ménerai les premières analyses sur ce jeu de données.
+
+"Vos" photos seront elles analysées en fonction des données disponibles, et j'espère vous livrer les premiers résultats début 2021.
 
 ## Budget
-Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine [marmelade.online](). 
+Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine. 
 
-Le temps que vous et moi y consacrez n'a lui pas de prix, et sera utile pour moi-même et j'espère pour plein d'autres.
+En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile pour moi-même et j'espère pour plein d'autres.
 
 ## Merci
  * D'être arrivé.e jusqu'ici
