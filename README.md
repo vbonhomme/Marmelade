@@ -1,5 +1,6 @@
+<br/><br/><br/>
 ![logo](img/header.png)
-
+<br/><br/><br/><br/><br/><br/><br/>
 ![photo](img/5075826879_d728c4d44c_c.jpg)  
 
 Photo d'[Alexandre Dulaunoy](https://www.flickr.com/photos/adulau/5075826879)
