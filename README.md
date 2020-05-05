@@ -51,22 +51,6 @@ En biologie des plantes, l'analyse des formes est surtout populaire sur les rest
 
 Les variétés actuelles ne sont paradoxalement que peu étudiées quantitativement alors que le matériel est frais, illimité et identifié. On peut donc raisonnablement espérer détecter des signaux encore plus subtils et plus éclairants sur l'histoire des variétés et la biologie des espèces.
 
-## Qui porte ce projet rigolo ?
-
-![myself](img/myself.png)   | [www.vincentbonhomme.fr]()
-------------- | ------------- 
-
-Je suis un scientifique enthousiaste avec un doctorat en écologie évolutive.
-
-Je m'intéresse à l'évolution des plantes domestiquées, et mes recherches visent à mieux comprendre où, quand, comment et pourquoi leurs formes évoluent.
-
-En 2020, je suis en post-doctorat au CNRS ([équipe DBA, UMR ISEM](http://www.isem.univ-montp2.fr/fr/equipes/dynamique-de-la-biodiversite-anthropoecologie-index/), Montpellier). Je suis embauché sur le [projet ANR](https://anr.fr/Projet-ANR-16-CE27-0013)  "Viticulture: Vignes et vins en France du Néolithique au Moyen Âge. Approche intégrée en archéosciences" piloté par Laurent Bouby.
-
-En pratique, j'essaie de faire parler ~50k pépins de raisin. J'arrive à la fin de la chaîne : pour moitié ces pépins ont été cueillis, amoureusement crachés puis photographiés par mes collègues ; les autres ont plusieurs siècles ou milliers d'années et ont été patiemment collectés lors de fouilles archéologiques.
-
-Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre en R pour permettre, massifier et populariser l'analyse de la forme, en général.
-
-
 ## Que deviennent mes photos ?
 
 Dans un premier temps - que l'on peut qualifier de débrouissaillage - on va tester l'intérêt de l'approche sur ces espèces. Quant à l'approche, elle est pratiquée en routine au labo. 
@@ -91,6 +75,22 @@ Les données que vous collectez serviront à entraîner les premiers modèles, e
 Je constituerai moi-même un autre jeu de données sur des collections existantes dans des conditions aussi standardisées que possible. Il est vraisemblable que je ménerai les premières analyses sur ce jeu de données.
 
 "Vos" photos seront elles analysées en fonction des données disponibles, et j'espère vous livrer les premiers résultats début 2021.
+
+## Qui porte ce projet rigolo ?
+
+![myself](img/myself.png)   | [www.vincentbonhomme.fr]()
+
+Je suis un scientifique enthousiaste avec un doctorat en écologie évolutive.
+
+Je m'intéresse à l'évolution des plantes domestiquées, et mes recherches visent à mieux comprendre où, quand, comment et pourquoi leurs formes évoluent.
+
+En 2020, je suis en post-doctorat au CNRS ([équipe DBA, UMR ISEM](http://www.isem.univ-montp2.fr/fr/equipes/dynamique-de-la-biodiversite-anthropoecologie-index/), Montpellier). Je suis embauché sur le [projet ANR](https://anr.fr/Projet-ANR-16-CE27-0013)  "Viticulture: Vignes et vins en France du Néolithique au Moyen Âge. Approche intégrée en archéosciences" piloté par Laurent Bouby.
+
+En pratique, j'essaie de faire parler ~50k pépins de raisin. J'arrive à la fin de la chaîne : pour moitié ces pépins ont été cueillis, amoureusement crachés puis photographiés par mes collègues ; les autres ont plusieurs siècles ou milliers d'années et ont été patiemment collectés lors de fouilles archéologiques.
+
+Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre en R pour permettre, massifier et populariser l'analyse de la forme, en général.
+
+Pour 2020, Marmelade est développé sur mon temps libre.
 
 ## Budget
 Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine. 
