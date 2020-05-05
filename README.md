@@ -1,4 +1,4 @@
-![logo](img/marmelade_logo.png)
+![logo](img/header.png)
 
 ![photo](img/5075826879_d728c4d44c_c.jpg)  
 
