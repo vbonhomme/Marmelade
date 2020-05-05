@@ -32,12 +32,12 @@ En sus de ma chaleureuse reconnaissance :
 
 ## Protocoles
 ### Projet fruits
- * [Lien protocole]()
- * [Lien formulaire]()
+ * Lien protocole
+ * Lien formulaire
  
 ### Projet légumes
- * [Lien protocole]()
- * [Lien formulaire]()
+ * Lien protocole
+ * Lien formulaire
 
 ## Mais quel est donc le contexte scientifique ?
 
@@ -52,7 +52,9 @@ En biologie des plantes, l'analyse des formes est surtout populaire sur les rest
 Les variétés actuelles ne sont paradoxalement que peu étudiées quantitativement alors que le matériel est frais, illimité et identifié. On peut donc raisonnablement espérer détecter des signaux encore plus subtils et plus éclairants sur l'histoire des variétés et la biologie des espèces.
 
 ## Qui porte ce projet rigolo ?
-![myself](img/myself.png)  
+
+![myself](img/myself.png)   | [www.vincentbonhomme.fr]()
+------------- | ------------- 
 
 Je suis un scientifique enthousiaste avec un doctorat en écologie évolutive.
 
@@ -64,7 +66,6 @@ En pratique, j'essaie de faire parler ~50k pépins de raisin. J'arrive à la fin
 
 Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre en R pour permettre, massifier et populariser l'analyse de la forme, en général.
 
-[> Vincent Bonhomme](http://www.vincentbonhomme.fr)
 
 ## Que deviennent mes photos ?
 
