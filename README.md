@@ -46,15 +46,15 @@ Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts
 
 Du cerisier du grand-père à la Granny Smith, de l'unique au clone mondialisé, ce que nous consommons est le produit direct de l'histoire partagée des humains et des plantes. Cette biodiversité _cultivée_, ou agrobiodiversité, est unique en son genre. C'est un héritage commun et vivant, menacé de toutes parts par ce que l'on désigne en termes galants de "monde moderne".
 
-Ici, le point d'entrée dans cette diversité est la forme des organes. Et ce n'est pas moins sexy que l'ADN : c'est le résultat de l'ADN, plus tout le reste. De plus, mesurer la forme c'est rapide, simple, décentralisable, écologique, gratuit et autorisé pour les enfants.
+Ici, le point d'entrée dans cette diversité est la forme des organes. Ce n'est pas moins sexy que l'ADN, c'est tout à fait autre chose : le résultat de l'ADN, plus tout le reste. Mesurer la forme c'est en outre rapide, simple, décentralisable, écologique, gratuit et autorisé pour les enfants.
 
-En biologie des plantes, l'analyse des formes est surtout populaire sur les restes archéologiques. Le matériel retrouvé est souvent déformé, toujours rare mais livre un éclairage unique sur ce que nous consommions dans le passé, parfois lointain.
+En biologie des plantes, l'analyse des formes est surtout populaire sur des restes archéobotaniques. Le matériel retrouvé est souvent déformé, toujours rare mais livre (parfois) un éclairage unique sur la diversité cultivée passée.
 
-Les variétés actuelles ne sont paradoxalement que peu étudiées quantitativement alors que le matériel est frais, illimité et identifié. On peut donc raisonnablement espérer détecter des signaux encore plus subtils et plus éclairants sur l'histoire des variétés et la biologie des espèces.
+Paradoxalement, les variétés actuelles ne sont que peu étudiées quantitativement avec ces approches alors que le matériel est frais, illimité et identifié. On peut donc raisonnablement espérer détecter des signaux encore plus subtils, et éclairer sur l'histoire des variétés et la biologie des espèces.
 
 ## Que deviennent mes photos ?
 
-Dans un premier temps - que l'on peut qualifier de débrouissaillage - on va tester l'intérêt de l'approche sur ces espèces. Quant à l'approche, elle est pratiquée en routine au labo. 
+Dans un premier temps, nous allons tester l'intérêt de l'approche morphométrique sur ces espèces,  pratiquée en routine au labo. 
 
 Les photos sont d'abord traitées par des machines et la forme du contour des feuilles va être extraite sous forme de coordonées `(x; y)` de pixels.
 
