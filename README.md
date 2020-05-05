@@ -7,7 +7,7 @@
 
 Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
 
-Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, en commençant par des scans de feuilles.
+Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, des photos et des scans de fruits et de légumes.
 
 Vous pouvez participer si :
 
@@ -21,7 +21,7 @@ Ce projet est un ballon d'essai pour des recherches au long cours qui visent à 
 
  - quantifier la diversité de forme des feuilles, graines et fruits des espèces fruitières au sein des espèces, des variétés et des individus ;
  - explorer la structure de cette diversité morphologique... si elle est structurée ;
- - tester l'existence de liens entre la forme, le climat, les années, les pratiques, etc., et les creuser ;
+ - tester l'existence de liens entre la forme, le climat, les années, les pratiques, etc. et les creuser ;
  - aider à l'identification de variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
  
 ## Qu'est-ce qu'on gagne ?
@@ -56,13 +56,13 @@ Paradoxalement, les variétés actuelles ne sont que peu étudiées quantitative
 
 Dans un premier temps, nous allons tester l'intérêt de l'approche morphométrique sur ces espèces,  pratiquée en routine au labo. 
 
-Les photos sont d'abord traitées par des machines et la forme du contour des feuilles va être extraite sous forme de coordonées `(x; y)` de pixels.
+Les photos sont d'abord traitées par des machines et la forme du contour des feuilles est extraite sous forme de coordonées `(x; y)` de pixels.
 
 Ces coordonées vont être homogénéisées, puis converties en variables quantitatives à l'aide de transformées elliptiques de Fourier. C'est un joli nom pour une transformation mathématique non moins élégante, que vous avez déjà pratiquée si vous avez joué avec un spirographe.
 
 Vu que l'on a désormais des variables confortables, traduisant la forme de façon compacte et objective, on peut :
 
-* chercher les principales composantes de variations ;
+* chercher les principales composantes de la variation morphologique ;
 * identifier des familles de formes et des regroupements ;
 * identifier les espaces morphologiques sous- et sur-representés ;
 * mesurer des distances entre formes ;
@@ -91,14 +91,15 @@ En pratique, j'essaie de faire parler ~50k pépins de raisin. J'arrive à la fin
 
 Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre en R pour permettre, massifier et populariser l'analyse de la forme, en général.
 
-Pour 2020, Marmelade est développé sur mon temps libre.
+En 2020, Marmelade est développé sur mon temps libre.
 
 ## Budget
 Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine. 
 
-En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile pour moi-même et j'espère pour plein d'autres.
+En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile pour moi-même, et j'espère pour plein d'autres voire pour nous tou.te.s.
 
 ## Merci
  * D'être arrivé.e jusqu'ici
- * Aux structures ci-dessous de bien avoir voulu diffuser ce programme. Merci à elles !
+ * Aux structures ci-dessous de bien avoir voulu diffuser ce programme :
+ 	* [Fruits Oubliés](http://fruitsoublies.org/) : réseau pour la diversité fruitière et alimentaire
 
