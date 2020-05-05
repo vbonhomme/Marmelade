@@ -97,6 +97,14 @@ En 2020, Marmelade est développé sur mon temps libre.
 Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine. 
 
 En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile pour moi-même, et j'espère pour plein d'autres voire pour nous tou.te.s.
+## Contacts
+
+Vincent Bonhomme  
+Lacamp  
+30440 Roquedur  
+
+* <projet.marmelade@gmail.com>
+* 06.95.90.55.79
 
 ## Merci
  * D'être arrivé.e jusqu'ici
