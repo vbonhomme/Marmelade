@@ -2,7 +2,7 @@
 ![logo](img/header.png)
 <br/><br/><br/><br/><br/><br/><br/>
 ![photo](img/5075826879_d728c4d44c_c.jpg)  
-<p style="text-align:right;">Photo d'[Alexandre Dulaunoy](https://www.flickr.com/photos/adulau/5075826879)</p>
+<p style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</p>
 <br/><br/>
 
 Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
