@@ -19,6 +19,11 @@ Vous pouvez participer si :
  * un scanner ;
  * 15 minutes devant vous.
  
+
+## Protocole de prélèvement
+ * [**Lien protocole**](protocole/feuilles.md)
+ * [**Lien formulaire**](https://forms.gle/88nU4t7EueY1fg348)
+ 
 ## Qu'est-ce qu'on cherche ?
 
 Ce projet est un ballon d'essai pour des recherches au long cours qui visent à :
@@ -35,10 +40,6 @@ En sus de ma chaleureuse reconnaissance :
 * Vous serez remercié.e dans les productions scientifiques ;
 * J'en diffuserai les résultats sous forme conviviale.
 
-## Protocole de prélèvement
- * [Lien protocole](protocole/feuilles.md)
- * [Lien formulaire](https://forms.gle/88nU4t7EueY1fg348)
- 
 ## Mais quel est donc le contexte scientifique ?
 
 Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts et à nos climats. Mais les plantes ont aussi trouvé une main qui les chérit, les multiplie, les diversifie et qui explore, à tâtons, des potentialités développementales inconnues dans la "nature".
