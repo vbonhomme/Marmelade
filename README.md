@@ -5,7 +5,7 @@
 <span style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</a></span>
 <br/>
 <span style="text-align:left;">
-Liens rapides : [[protocole]](protocole/feuilles.md) 	• [[formulaire]](https://forms.gle/88nU4t7EueY1fg348)</span>
+Liens rapides : [[protocole]](protocole_feuilles_0520.md) 	• [[formulaire]](https://forms.gle/88nU4t7EueY1fg348)</span>
 
 ---
 
