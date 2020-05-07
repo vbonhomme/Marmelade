@@ -2,8 +2,12 @@
 ![logo](img/header.png)
 <br/><br/><br/><br/><br/><br/><br/>
 ![photo](img/5075826879_d728c4d44c_c.jpg)  
-<p style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</a></p>
-<br/><br/>
+<span style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</a></span>
+<br/>
+<span style="text-align:left;">
+Liens rapides : [[protocole]](protocole/feuilles.md) 	• [[formulaire]](https://forms.gle/88nU4t7EueY1fg348)</span>
+
+---
 
 Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
 
@@ -11,8 +15,8 @@ Ce projet est participatif car il compte sur **vous** pour collecter ses donnée
 
 Vous pouvez participer si :
 
- * vous avez des arbres fruitiers ou des légumes dont vous connaissez la variété ;
- * un scanner, un smartphone ou un appareil photo ;
+ * vous avez des arbres fruitiers dont vous connaissez la variété ;
+ * un scanner ;
  * 15 minutes devant vous.
  
 ## Qu'est-ce qu'on cherche ?
@@ -31,15 +35,10 @@ En sus de ma chaleureuse reconnaissance :
 * Vous serez remercié.e dans les productions scientifiques ;
 * J'en diffuserai les résultats sous forme conviviale.
 
-## Protocoles
-### Projet fruits
- * Lien protocole
- * Lien formulaire
+## Protocole de prélèvement
+ * [Lien protocole](protocole/feuilles.md)
+ * [Lien formulaire](https://forms.gle/88nU4t7EueY1fg348)
  
-### Projet légumes
- * Lien protocole
- * Lien formulaire
-
 ## Mais quel est donc le contexte scientifique ?
 
 Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts et à nos climats. Mais les plantes ont aussi trouvé une main qui les chérit, les multiplie, les diversifie et qui explore, à tâtons, des potentialités développementales inconnues dans la "nature".
@@ -97,14 +96,17 @@ En 2020, Marmelade est développé sur mon temps libre.
 Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine. 
 
 En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile pour moi-même, et j'espère pour plein d'autres voire pour nous tou.te.s.
+
 ## Contacts
+
+<projet.marmelade@gmail.com>  
++33.(0)6.95.90.55.79  
+
+[Facebook](https://www.facebook.com/Marmelade-100577291640542)  
 
 Vincent Bonhomme  
 Lacamp  
 30440 Roquedur  
-
-* <projet.marmelade@gmail.com>
-* 06.95.90.55.79
 
 ## Merci
  * D'être arrivé.e jusqu'ici
