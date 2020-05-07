@@ -2,12 +2,7 @@
 ![logo](img/header.png)
 <br/><br/><br/><br/><br/><br/><br/>
 ![photo](img/5075826879_d728c4d44c_c.jpg)  
-<span style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</a></span>
-<br/>
-<span style="text-align:left;">
-Liens rapides : [[protocole]](protocole_feuilles_0520.md) 	• [[formulaire]](https://forms.gle/88nU4t7EueY1fg348)</span>
-
----
+<p style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</a></p>
 
 Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
 
