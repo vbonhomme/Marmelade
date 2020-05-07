@@ -12,7 +12,7 @@ L'axe "feuilles" en est le premier et son protocole de collecte est simple.
 
 Vous devriez ce genre d'image, ici un cerisier :
 
-![example_cerisier](img/ex_scan.jpg)
+![example_cerisier](../../img/ex_scan.jpg)
 
 ### Choix de l'arbre et de la variété
 * **Les pruniers, cerisiers et pommiers et poiriers** sont particulièrement recherchés pour ce premier essai mais vous pouvez participer avec les espèces qui vous plaisent
