@@ -16,7 +16,7 @@ Vous pouvez participer si :
  
 
 ## Protocole de prélèvement
- * [**Lien protocole**](protocole/feuilles.md)
+ * [**Lien protocole**](feuilles.md)
  * [**Lien formulaire**](https://forms.gle/88nU4t7EueY1fg348)
  
 ## Qu'est-ce qu'on cherche ?
