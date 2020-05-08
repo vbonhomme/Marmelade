@@ -6,7 +6,7 @@
 
 Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
 
-Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, des photos et des scans de fruits et de légumes.
+Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, des photos et des scans de fruits et de légumes. Avec votre participation, nous pouvons espérer rassembler des jeux de données en diversité, nombre et maillage géographique presque impossible à rassembler avec les moyens traditionnels de la recherche.
 
 Vous pouvez participer si :
 

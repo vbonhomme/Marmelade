@@ -10,14 +10,15 @@ L'axe "feuilles" en est le premier et son protocole de collecte est simple.
 * de 15 minutes environ par arbre ;
 * d'accepter de déposer vos données dans le domaine public.
 
-Vous devriez ce genre d'image, ici un cerisier :
+Vous devriez obtenir ce genre d'images, ici un cerisier :
 
 ![example_cerisier](img/ex_scan.jpg)
 
 ### Choix de l'arbre et de la variété
 * **Les pruniers, cerisiers et pommiers et poiriers** sont particulièrement recherchés pour ce premier essai mais vous pouvez participer avec les espèces qui vous plaisent
-* On priviligiera les arbres plantés depuis au moins une année pleine, ayant au moins 4-5 ans. Si cela vous fait peine de sacrifier 20 feuilles pour la science, c'est que votre arbre est trop jeune.
+* On priviligiera les arbres plantés depuis au moins une année pleine, ayant au moins 4-5 ans, produisant des fruits. Si cela vous fait peine de sacrifier 20 feuilles pour la science, c'est que votre arbre est trop jeune.
 * Si vous avez plusieurs espèces et variétés sous la main, mais que vous n'avez pas le temps ou l'envie de toutes les faire, privilégiez les variétés qui vous paraissent les plus rares.
+* Si vous avez plusieurs arbres de la même variété, ces répétitions statistiques seraient extrêmement précieuses ! Chaque individu arbre doit faire l'objet de dépôts séparés sur le formulaire.
 
 ### Prélèvement des feuilles
 * 1 dépôt sur le [formulaire en ligne](https://forms.gle/88nU4t7EueY1fg348) = 1 arbre, éventuellement en plusieurs scans
