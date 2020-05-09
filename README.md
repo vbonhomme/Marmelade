@@ -1,6 +1,6 @@
-<br/><br/><br/>
+<br/><br/>
 ![logo](img/header.png)
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 ![photo](img/5075826879_d728c4d44c_c.jpg)  
 <p style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</a></p>
 
@@ -47,13 +47,15 @@ En biologie des plantes, l'analyse des formes est surtout populaire sur des rest
 
 Paradoxalement, les variétés actuelles ne sont que peu étudiées quantitativement avec ces approches alors que le matériel est frais, illimité et identifié. On peut donc raisonnablement espérer détecter des signaux encore plus subtils, et éclairer sur l'histoire des variétés et la biologie des espèces.
 
+L'identification pure à l'échelle des _espèces_ et à partir de photographies marche fabuleusement bien, par exemple dans l'application mobile [Pl@ntNet](https://plantnet.org/). L'approche proposée ici est un peu plus contraignante car elle nécessite des données standardisées (des contours de feuilles, bien à plat). En revanche, elle permet en retour de disposer de descripteurs plus facilement exploitables.
+
 ## Que deviennent mes photos ?
 
 Dans un premier temps, nous allons tester l'intérêt de l'approche morphométrique sur ces espèces,  pratiquée en routine au labo. 
 
 Les photos sont d'abord traitées par des machines et la forme du contour des feuilles est extraite sous forme de coordonées `(x; y)` de pixels.
 
-Ces coordonées vont être homogénéisées, puis converties en variables quantitatives à l'aide de transformées elliptiques de Fourier. C'est un joli nom pour une transformation mathématique non moins élégante, que vous avez déjà pratiquée si vous avez joué avec un spirographe.
+Ces coordonnées vont être homogénéisées, puis converties en variables quantitatives à l'aide de transformées elliptiques de Fourier. C'est un joli nom pour une transformation mathématique non moins élégante, que vous avez déjà pratiquée si vous avez joué avec un spirographe.
 
 Vu que l'on a désormais des variables confortables, traduisant la forme de façon compacte et objective, on peut :
 
@@ -72,9 +74,12 @@ Je constituerai moi-même un autre jeu de données sur des collections existante
 
 "Vos" photos seront elles analysées en fonction des données disponibles, et j'espère vous livrer les premiers résultats début 2021.
 
+Quand les jeux de données seront plus conséquent, on pourra envisager du deep learning pour l'identification des variétés.
+
 ## Qui porte ce projet rigolo ?
 
-![myself](img/myself.png)   | [www.vincentbonhomme.fr]()
+![myself](img/myself.png)   
+[www.vincentbonhomme.fr]()
 
 Je suis un scientifique enthousiaste avec un doctorat en écologie évolutive.
 
@@ -89,20 +94,23 @@ Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre 
 En 2020, Marmelade est développé sur mon temps libre.
 
 ## Budget
-Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine. 
+Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine.
 
-En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile pour moi-même, et j'espère pour plein d'autres voire pour nous tou.te.s.
+En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile pour moi-même, et j'espère pour plein d'autres voire pour nous tou.te.s &#9996;.
 
 ## Contacts
 
-<projet.marmelade@gmail.com>  
-+33.(0)6.95.90.55.79  
-
+<contact@marmelade.online>  
+<!--
 [Facebook](https://www.facebook.com/Marmelade-100577291640542)  
+-->
 
 Vincent Bonhomme  
 Lacamp  
 30440 Roquedur  
+
++33.(0)6.95.90.55.79  
+<bonhomme.vincent@gmail.com>
 
 ## Merci
  * D'être arrivé.e jusqu'ici
